@@ -1,0 +1,9 @@
+[build]
+  command = "npm run build"
+  publish = "public"
+
+[[redirects]]
+  from = "https://redirecttesting12.netlify.app/*"
+  to = "https://www.youtube.com/:splat"
+  status = 301
+  force = true

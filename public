@@ -1,0 +1,6 @@
+root
+  ├ public
+  | ├ _redirects
+  | └ index.html
+  ├ src
+  └ lib
